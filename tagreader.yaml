@@ -18,7 +18,7 @@ improv_serial:
 substitutions:
   name: tagreader
   friendly_name: TagReader
-  beep_on_boot: true
+  beep_on_boot: "true"
 
 esphome:
   name: $name
